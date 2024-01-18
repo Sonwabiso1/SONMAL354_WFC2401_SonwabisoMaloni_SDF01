@@ -5,7 +5,7 @@
 This projects aim is to create a webpage portfolio for codespace cat.
 This project is finished and needs not to be mantained.
 I used HTML to code this project and it features tables, forms, and linked images.
-This project uses a reference from codespace from their repository which can be found right below this text.<br>
+This project uses a reference from a Codespace repository which can be found right below this text.<br>
 Link: https://github.com/CodeSpace-Academy/sdf-student-projects/tree/main/01_html_foundations/project_codespace_cat_portfolio_starter_code
 
 ## Loom Presentation Link:
